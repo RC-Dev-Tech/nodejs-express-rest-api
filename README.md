@@ -9,6 +9,7 @@
 * [操作說明](#操作說明)
 * [測試](#測試)
 * [參考資料](#參考資料)
+* [備註](#備註)
 <!--te-->
 
 ---
@@ -25,7 +26,7 @@ RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風
 <br>
 
 ## 操作說明.
-#### 1. 安裝套件
+#### 1. 安裝套件 [^1]
 > npm install --save
 #### 2. 編譯 & 運行
 > npm run start
@@ -88,3 +89,15 @@ RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風
 * [RUNOOB - Node.js Express框架](https://www.runoob.com/nodejs/nodejs-express-framework.html) <br>
 * [如何使用 TypeScript 在 Express.js 項目中設置路由](https://dev.to/sulistef/how-to-set-up-routing-in-an-expressjs-project-using-typescript-51ib) <br>
 * [dougwilson-github - express-examples-multi-router](https://github.com/expressjs/express/tree/master/examples/multi-router) <br>
+
+---
+<!--ts-->
+#### [目錄 ↩](#目錄)
+<!--te-->
+---
+## 備註：
+
+[^1]: 在這個範例中我們需要安裝部分套件，指令如下：<br>
+`npm install express` <br>
+`npm install body-parser` <br>
+因為這個套件已經有被安裝並整合在package.json中，所以這邊直接下**npm install --save**的指令就好
