@@ -115,4 +115,4 @@ RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風
 [^1]: 在這個範例中我們需要安裝部分套件，指令如下：<br>
 `npm install express --save` <br>
 `npm install body-parser --save` <br>
-因為這個套件已經有被安裝並整合在package.json中，所以這邊直接下**npm install --save**的指令就好
+因為這些套件已經有被安裝並整合在package.json中，所以這邊直接下**npm install --save**的指令就好
