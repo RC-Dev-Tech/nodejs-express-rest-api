@@ -4,7 +4,7 @@ export const user = express.Router();
 // 預覽全部使用者資料.
 // 或著藉由某個id來取得使用者資料.
 user.get('/', (req, res) => {
-    var user = JSON.parse(req.body);
+    //var user = JSON.parse(req.body);
     res.send('get all user info ');
 });
 

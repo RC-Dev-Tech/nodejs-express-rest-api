@@ -104,6 +104,8 @@ RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風
 * [RUNOOB - Node.js Express框架](https://www.runoob.com/nodejs/nodejs-express-framework.html) <br>
 * [如何使用 TypeScript 在 Express.js 項目中設置路由](https://dev.to/sulistef/how-to-set-up-routing-in-an-expressjs-project-using-typescript-51ib) <br>
 * [dougwilson-github - express-examples-multi-router](https://github.com/expressjs/express/tree/master/examples/multi-router) <br>
+* [Node.js - 使用http建立CRUD rest api](https://ithelp.ithome.com.tw/articles/10238506)<br>
+
 
 ---
 <!--ts-->
