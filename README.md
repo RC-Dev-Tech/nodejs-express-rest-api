@@ -18,11 +18,14 @@
 <br>
 
 ## 簡介
-RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風格，就好比我們常在說的code style，像是什麼駝峰式命名法等等之類的.
+RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風格，就好比我們常在說的code style，像是什麼駝峰式命名法等等之類的. <br>
+而RESTful主要就是倡導我們在設計API的時候可以藉由不同的Router跟其對應的操作(GET、POST、PUT、DELETE ...等)，來設計出更讓人易懂的API. <br>
+該範例實作，將會簡單的介紹，我們該如何利用Nodjejs-Express去設計一個有RESTful風格的API. <br>
 
-而RESTful主要就是倡導我們在設計API的時候可以藉由不同的Router跟其對應的操作(GET、POST、PUT、DELETE ...等)，來設計出更讓人易懂的API.
+<br>
 
-該範例實作，將會簡單的介紹，我們該如何利用Nodjejs-Express去設計一個有RESTful風格的API.
+實作範例:
+- [Example]() - Express Restful API.
 
 ---
 <br>
