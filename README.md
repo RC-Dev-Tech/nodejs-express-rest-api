@@ -23,7 +23,7 @@ RESTful 是什麼？ 簡單來說就是我們在制定REST API的一種設計風
 而RESTful主要就是倡導我們在設計API的時候可以藉由不同的Router跟其對應的操作(GET、POST、PUT、DELETE ...等)，來設計出更讓人易懂的API. <br>
 該範例實作，將會簡單的介紹，我們該如何利用Nodjejs-Express去設計一個有RESTful風格的API. <br>
 
-<br>
+---
 
 ## 實作範例:
 - [Example](https://github.com/RC-Dev-Tech/nodejs-express-rest-api/tree/main/src) - Express Restful API.
